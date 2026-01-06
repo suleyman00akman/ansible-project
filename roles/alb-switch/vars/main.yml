@@ -10,4 +10,4 @@ alb_listener_arn: "arn:aws:elasticloadbalancing:us-east-1:623402582673:listener/
 slack_token: "{{ vault_slack_token }}"
 slack_channel: "#ansible-project"
 green_server_phonebook_ip: "3.94.173.118"
-your_name: "Refia"
+your_name: "DEVOPS-TEAM"
